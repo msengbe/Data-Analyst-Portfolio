@@ -26,8 +26,7 @@ This repository highlights a selection of projects that demonstrate my analytica
 ---
 
 ## 💼 About
-I am a data analyst passionate about transforming raw data into insights that inform business strategy and performance improvement.  
-My work reflects a strong commitment to clarity, precision, and data-driven decision-making.
+I am a data analyst passionate about transforming raw data into insights that inform business strategy and performance improvement. My work reflects a strong commitment to clarity, precision, and data-driven decision-making.
 
 ---
 
