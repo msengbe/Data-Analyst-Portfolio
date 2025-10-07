@@ -11,7 +11,8 @@ This repository highlights a selection of projects that demonstrate my analytica
 ## 🔍 Featured Projects
 | Project | Description | Tools Used |
 |----------|--------------|-------------|
-| [Telecom Churn Analysis](link) | Developed a logistic regression model to predict customer churn and identify key retention factors. | Python, pandas, scikit-learn, Tableau |
+| [Telecom Churn Analysis[E3.ipynb](https://github.com/user-attachments/files/22748752/E3.ipynb)
+sis](link) | Developed a logistic regression model to predict customer churn and identify key retention factors. | Python, pandas, scikit-learn, Tableau |
 | [Ridge Regression Pricing Model](link) | Built a regression model to forecast customer monthly charges based on usage and demographics. | Python, statsmodels, matplotlib |
 | [Broadband Accessibility Dashboard](link) | Designed a Tableau dashboard to visualize U.S. broadband coverage and highlight gaps in digital equity. | SQL, Tableau |
 | [Data Cleaning and Preparation with Python](link) | Demonstrated data wrangling techniques to handle missing values, outliers, and inconsistent categories. | Python, pandas, NumPy |
