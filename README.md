@@ -14,7 +14,7 @@ This repository highlights a selection of projects that demonstrate my analytica
 | Telecom Churn Analysis Links: [Report](Logistics%20Regression.docx), [Data](C5.csv) , [Notebook](E3.ipynb)| Developed a logistic regression model to predict customer churn and identify key retention factors. | Python, pandas, scikit-learn, Tableau |
 | Ridge Regression Pricing Model Links: [Report](Logistics%20Regression.docx), [Notebook](Predictive%20Analysis%20C4.ipynb) | Built a regression model to forecast customer monthly charges based on usage and demographics. | Python, statsmodels, matplotlib |
 | Broadband Accessibility Dashboard Links: [Report](Representation%20and%20Reporting.docx), [Cleaned Churn Data](churn_tidy.csv), [Cleaned FCC Data](fcc_tier_clean.csv), [Install Guide](InstallandNavigate.docx), [Broadband Accessibility Dashboard](Broadband.twbx) | Designed a Tableau dashboard to visualize U.S. broadband coverage and highlight gaps in digital equity. | SQL, Python, Tableau |
-| [Data Cleaning and Preparation with Python](link) | Demonstrated data wrangling techniques to handle missing values, outliers, and inconsistent categories. | Python, pandas, NumPy |
+| Data Cleaning and Preparation with Python Links: [Report](Data%20Cleaning.docx), [Mitigation Code](D1.py), [PCA Script](PCA.py), [Initial Data Cleaned](D2.csv) | Demonstrated data wrangling techniques to handle missing values, outliers, and inconsistent categories. | Python, pandas, NumPy |
 
 ---
 
