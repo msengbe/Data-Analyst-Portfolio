@@ -17,15 +17,15 @@
 
 ---
 
-## <span style="color:#DB7093">✨ About Me</span>
+## ✨ About Me
 
-I’m a <span style="color:#DB7093"><strong>Data Analyst</strong></span> passionate about transforming raw data into meaningful insights that support <span style="color:#DB7093"><strong>strategy, performance improvement, and clarity</strong></span>. I work across the full analytics lifecycle—from data cleaning and exploratory analysis to predictive modeling, visualization, and interpretation.
+I’m a **Data Analyst** passionate about transforming raw data into meaningful insights that support **strategy, performance improvement, and clarity**. I work across the full analytics lifecycle—from data cleaning and exploratory analysis to predictive modeling, visualization, and interpretation.
 
-My work blends <span style="color:#DB7093"><strong>technical rigor</strong></span> with <span style="color:#DB7093"><strong>clean storytelling</strong></span>, focusing on models and dashboards that translate complex data into insights decision-makers can confidently act on.
+My work blends **technical rigor** with **clean storytelling**, focusing on models and dashboards that translate complex data into insights decision-makers can confidently act on.
 
 ---
 
-## <span style="color:#DB7093">🗂️ Project Folders (Start Here)</span>
+## 🗂️ Project Folders
 
 - 📁 [Telecommunications Customer Churn Analysis](./telecom-churn-analysis/)
 - 📁 [Ridge Regression Pricing Model](./ridge-regression-pricing/)
@@ -34,87 +34,48 @@ My work blends <span style="color:#DB7093"><strong>technical rigor</strong></spa
 
 ---
 
-## <span style="color:#DB7093">💼 Featured Projects</span>
+## 💼 Featured Projects (Clean + Aligned)
 
-<table>
-<tr>
-<td width="50%">
-
-### <span style="color:#DB7093">📡 Telecommunications Customer Churn Analysis</span>  
-This project analyzes customer churn in a telecommunications dataset to identify behavioral and service-related factors driving customer attrition. Using logistic regression, I evaluated feature importance and modeled churn likelihood to support <span style="color:#DB7093"><strong>data-driven retention strategies</strong></span>.
-
-<span style="color:#DB7093"><strong>Tools:</strong></span> Python, pandas, scikit-learn, Tableau  
-
-🔗  
-[Project Folder](./telecom-churn-analysis/) •  
-[Report](./telecom-churn-analysis/Logistics%20Regression.docx) •  
-[Notebook](./telecom-churn-analysis/E3.ipynb)
-
-</td>
-<td width="50%">
-
-### <span style="color:#DB7093">📈 Ridge Regression Pricing Model</span>  
-This project focuses on forecasting customer monthly charges using ridge regression to address multicollinearity and improve <span style="color:#DB7093"><strong>model stability and interpretability</strong></span> in pricing analytics.
-
-<span style="color:#DB7093"><strong>Tools:</strong></span> Python, statsmodels, matplotlib  
-
-🔗  
-[Project Folder](./ridge-regression-pricing/) •  
-[Report](./ridge-regression-pricing/Ridge%20Regression.docx) •  
-[Notebook](./ridge-regression-pricing/Predictive%20Analysis%20C4.ipynb)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### <span style="color:#DB7093">🌐 Broadband Accessibility & Digital Equity Dashboard</span>  
-This project combines FCC broadband data with telecommunications customer data to visualize disparities in broadband access. An interactive Tableau dashboard highlights <span style="color:#DB7093"><strong>regional equity gaps</strong></span> and supports geographic and policy-focused analysis.
-
-<span style="color:#DB7093"><strong>Tools:</strong></span> SQL, Python, Tableau  
-
-🔗  
-[Project Folder](./broadband-accessibility-dashboard/) •  
-[Dashboard](./broadband-accessibility-dashboard/Broadband.twbx) •  
-[Summary](./broadband-accessibility-dashboard/Representation%20and%20Reporting.docx)
-
-</td>
-<td width="50%">
-
-### <span style="color:#DB7093">🧹 Data Cleaning & Preparation with Python</span>  
-This project demonstrates end-to-end preprocessing techniques used to prepare raw datasets for modeling and reporting, including missing-value handling, outlier management, and <span style="color:#DB7093"><strong>PCA-based dimensionality reduction</strong></span>.
-
-<span style="color:#DB7093"><strong>Tools:</strong></span> Python, pandas, NumPy  
-
-🔗  
-[Project Folder](./data-cleaning-preparation/) •  
-[Report](./data-cleaning-preparation/Data%20Cleaning.docx) •  
-[Code](./data-cleaning-preparation/D1.py)
-
-</td>
-</tr>
-</table>
+### 📡 Telecommunications Customer Churn Analysis
+**Summary:** Analyzed customer churn to identify key behavioral and service-related drivers of attrition. Built and evaluated a logistic regression model to estimate churn likelihood and support retention-focused decision-making.  
+**Tools:** Python, pandas, scikit-learn, Tableau  
+**Links:** [Project Folder](./telecom-churn-analysis/) • [Report](./telecom-churn-analysis/Logistics%20Regression.docx) • [Notebook](./telecom-churn-analysis/E3.ipynb)
 
 ---
 
-## <span style="color:#DB7093">🧠 Technical Skills</span>
-
-<span style="color:#DB7093"><strong>Languages & Tools</strong></span>  
-Python • SQL • Tableau • Excel  
-
-<span style="color:#DB7093"><strong>Libraries</strong></span>  
-pandas • NumPy • matplotlib • seaborn • scikit-learn • statsmodels  
-
-<span style="color:#DB7093"><strong>Core Strengths</strong></span>  
-Data Cleaning • Predictive Modeling • Regression Analysis • Dashboard Design • Analytics Storytelling
+### 📈 Ridge Regression Pricing Model
+**Summary:** Forecasted monthly customer charges using ridge regression to address multicollinearity and improve model stability. Highlighted the value of regularization for interpretable and reliable pricing analytics.  
+**Tools:** Python, statsmodels, matplotlib  
+**Links:** [Project Folder](./ridge-regression-pricing/) • [Report](./ridge-regression-pricing/Ridge%20Regression.docx) • [Notebook](./ridge-regression-pricing/Predictive%20Analysis%20C4.ipynb)
 
 ---
 
-## <span style="color:#DB7093">📬 Let’s Connect</span>
+### 🌐 Broadband Accessibility & Digital Equity Dashboard
+**Summary:** Combined FCC broadband availability with telecom customer data to visualize disparities in access across regions. Developed a Tableau dashboard that highlights equity gaps and supports geographic and policy-oriented analysis.  
+**Tools:** SQL, Python, Tableau  
+**Links:** [Project Folder](./broadband-accessibility-dashboard/) • [Dashboard](./broadband-accessibility-dashboard/Broadband.twbx) • [Summary](./broadband-accessibility-dashboard/Representation%20and%20Reporting.docx)
 
-📧 <span style="color:#DB7093"><strong>Email:</strong></span> [sengbejen@gmail.com](mailto:sengbejen@gmail.com)  
-💼 <span style="color:#DB7093"><strong>LinkedIn:</strong></span> https://www.linkedin.com/in/jen-sengbe-6630a73a4  
+---
+
+### 🧹 Data Cleaning & Preparation with Python
+**Summary:** Demonstrated end-to-end preprocessing techniques to prepare raw datasets for modeling and reporting, including missing-value handling, outlier management, and PCA-based dimensionality reduction.  
+**Tools:** Python, pandas, NumPy  
+**Links:** [Project Folder](./data-cleaning-preparation/) • [Report](./data-cleaning-preparation/Data%20Cleaning.docx) • [Code](./data-cleaning-preparation/D1.py)
+
+---
+
+## 🧠 Technical Skills
+
+**Languages & Tools:** Python • SQL • Tableau • Excel  
+**Libraries:** pandas • NumPy • matplotlib • seaborn • scikit-learn • statsmodels  
+**Core Strengths:** Data Cleaning • Predictive Modeling • Regression Analysis • Dashboard Design • Analytics Storytelling
+
+---
+
+## 📬 Let’s Connect
+
+📧 **Email:** [sengbejen@gmail.com](mailto:sengbejen@gmail.com)  
+💼 **LinkedIn:** https://www.linkedin.com/in/jen-sengbe-6630a73a4
 
 ---
 
