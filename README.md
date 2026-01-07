@@ -34,33 +34,14 @@ My work blends **technical rigor** with **clean storytelling**, focusing on mode
 
 ---
 
-## 💼 Featured Projects (Clean + Aligned)
+## 💼 Featured Projects
 
-### 📡 Telecommunications Customer Churn Analysis
-**Summary:** Analyzed customer churn to identify key behavioral and service-related drivers of attrition. Built and evaluated a logistic regression model to estimate churn likelihood and support retention-focused decision-making.  
-**Tools:** Python, pandas, scikit-learn, Tableau  
-**Links:** [Project Folder](./telecom-churn-analysis/) • [Report](./telecom-churn-analysis/Logistics%20Regression.docx) • [Notebook](./telecom-churn-analysis/E3.ipynb)
-
----
-
-### 📈 Ridge Regression Pricing Model
-**Summary:** Forecasted monthly customer charges using ridge regression to address multicollinearity and improve model stability. Highlighted the value of regularization for interpretable and reliable pricing analytics.  
-**Tools:** Python, statsmodels, matplotlib  
-**Links:** [Project Folder](./ridge-regression-pricing/) • [Report](./ridge-regression-pricing/Ridge%20Regression.docx) • [Notebook](./ridge-regression-pricing/Predictive%20Analysis%20C4.ipynb)
-
----
-
-### 🌐 Broadband Accessibility & Digital Equity Dashboard
-**Summary:** Combined FCC broadband availability with telecom customer data to visualize disparities in access across regions. Developed a Tableau dashboard that highlights equity gaps and supports geographic and policy-oriented analysis.  
-**Tools:** SQL, Python, Tableau  
-**Links:** [Project Folder](./broadband-accessibility-dashboard/) • [Dashboard](./broadband-accessibility-dashboard/Broadband.twbx) • [Summary](./broadband-accessibility-dashboard/Representation%20and%20Reporting.docx)
-
----
-
-### 🧹 Data Cleaning & Preparation with Python
-**Summary:** Demonstrated end-to-end preprocessing techniques to prepare raw datasets for modeling and reporting, including missing-value handling, outlier management, and PCA-based dimensionality reduction.  
-**Tools:** Python, pandas, NumPy  
-**Links:** [Project Folder](./data-cleaning-preparation/) • [Report](./data-cleaning-preparation/Data%20Cleaning.docx) • [Code](./data-cleaning-preparation/D1.py)
+| Project | Description |
+|-------|-------------|
+| **📡 Telecommunications Customer Churn Analysis**<br><br>**Tools:** Python, pandas, scikit-learn, Tableau<br><br>🔗 [Project Folder](./telecom-churn-analysis/) • [Report](./telecom-churn-analysis/Logistics%20Regression.docx) • [Notebook](./telecom-churn-analysis/E3.ipynb) | Analyzed customer churn in a telecommunications dataset to identify behavioral and service-related drivers of attrition. Built and evaluated a logistic regression model to estimate churn likelihood and support data-driven retention strategies. |
+| **📈 Ridge Regression Pricing Model**<br><br>**Tools:** Python, statsmodels, matplotlib<br><br>🔗 [Project Folder](./ridge-regression-pricing/) • [Report](./ridge-regression-pricing/Ridge%20Regression.docx) • [Notebook](./ridge-regression-pricing/Predictive%20Analysis%20C4.ipynb) | Forecasted customer monthly charges using ridge regression to address multicollinearity and improve model stability. Demonstrated the value of regularization for interpretable and reliable pricing analytics. |
+| **🌐 Broadband Accessibility & Digital Equity Dashboard**<br><br>**Tools:** SQL, Python, Tableau<br><br>🔗 [Project Folder](./broadband-accessibility-dashboard/) • [Dashboard](./broadband-accessibility-dashboard/Broadband.twbx) • [Summary](./broadband-accessibility-dashboard/Representation%20and%20Reporting.docx) | Combined FCC broadband availability data with telecommunications customer data to visualize disparities in broadband access across regions. Built an interactive Tableau dashboard to highlight equity gaps and support geographic and policy-focused analysis. |
+| **🧹 Data Cleaning & Preparation with Python**<br><br>**Tools:** Python, pandas, NumPy<br><br>🔗 [Project Folder](./data-cleaning-preparation/) • [Report](./data-cleaning-preparation/Data%20Cleaning.docx) • [Code](./data-cleaning-preparation/D1.py) | Demonstrated end-to-end preprocessing techniques including missing-value handling, outlier management, and PCA-based dimensionality reduction to prepare raw datasets for modeling and reporting. |
 
 ---
 
