@@ -19,21 +19,8 @@
 
 ## ✨ About Me
 
-I’m a **Data Analyst** passionate about transforming raw data into meaningful insights that support **strategy, performance improvement, and clarity**.  
-My work blends **technical rigor** with **clean storytelling**, focusing on models and visuals that decision-makers can actually use.
+I’m a **Data Analyst** passionate about transforming raw data into meaningful insights that support **strategy, performance improvement, and clarity**. I enjoy working at the intersection of data and storytelling, where thoughtful analysis meets intuitive design. My work blends **technical rigor** with **clean storytelling**, creating models and visualizations that help decision-makers understand not just the “what,” but the “why.”
 
----
-
-## 📊 GitHub Stats (Soft Style)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msengbe&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=FFF7FB&title_color=9B4D96&text_color=4A235A&icon_color=DB7093&border_color=F4C2C2" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msengbe&layout=compact&bg_color=FFF7FB&title_color=9B4D96&text_color=4A235A&border_color=F4C2C2" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=msengbe&background=FFF7FB&border=F4C2C2&stroke=F4C2C2&ring=DB7093&fire=DB7093&currStreakLabel=4A235A&sideLabels=4A235A&currStreakNum=9B4D96&sideNums=9B4D96&dates=6D4C6D" height="170" />
-</p>
 
 ---
 
@@ -52,27 +39,27 @@ My work blends **technical rigor** with **clean storytelling**, focusing on mode
 <tr>
 <td width="50%">
 
-### 📡 Telecommunications Customer Churn Analysis
+### 📡 Telecommunications Customer Churn Analysis  
 Predictive modeling project identifying key churn drivers and retention opportunities.
 
-**Tools:** Python, pandas, scikit-learn, Tableau
+**Tools:** Python, pandas, scikit-learn, Tableau  
 
 🔗  
-[Project Folder](./telecom-churn-analysis/) •
-[Report](./telecom-churn-analysis/Logistics%20Regression.docx) •
+[Project Folder](./telecom-churn-analysis/) •  
+[Report](./telecom-churn-analysis/Logistics%20Regression.docx) •  
 [Notebook](./telecom-churn-analysis/E3.ipynb)
 
 </td>
 <td width="50%">
 
-### 📈 Ridge Regression Pricing Model
+### 📈 Ridge Regression Pricing Model  
 Forecasting monthly customer charges using regularized regression.
 
-**Tools:** Python, statsmodels, matplotlib
+**Tools:** Python, statsmodels, matplotlib  
 
 🔗  
-[Project Folder](./ridge-regression-pricing/) •
-[Report](./ridge-regression-pricing/Ridge%20Regression.docx) •
+[Project Folder](./ridge-regression-pricing/) •  
+[Report](./ridge-regression-pricing/Ridge%20Regression.docx) •  
 [Notebook](./ridge-regression-pricing/Predictive%20Analysis%20C4.ipynb)
 
 </td>
@@ -81,53 +68,24 @@ Forecasting monthly customer charges using regularized regression.
 <tr>
 <td width="50%">
 
-### 🌐 Broadband Accessibility & Digital Equity Dashboard
-Interactive Tableau dashboard visualizing broadband gaps and digital equity trends[field].
+### 🌐 Broadband Accessibility & Digital Equity Dashboard  
+Interactive Tableau dashboard visualizing broadband gaps and digital equity trends.
 
-**Tools:** SQL, Python, Tableau
+**Tools:** SQL, Python, Tableau  
 
 🔗  
-[Project Folder](./broadband-accessibility-dashboard/) •
-[Dashboard](./broadband-accessibility-dashboard/Broadband.twbx) •
+[Project Folder](./broadband-accessibility-dashboard/) •  
+[Dashboard](./broadband-accessibility-dashboard/Broadband.twbx) •  
 [Summary](./broadband-accessibility-dashboard/Representation%20and%20Reporting.docx)
 
 </td>
 <td width="50%">
 
-### 🧹 Data Cleaning & Preparation with Python
+### 🧹 Data Cleaning & Preparation with Python  
 Preprocessing workflow showcasing data quality best practices.
 
-**Tools:** Python, pandas, NumPy
+**Tools:** Python, pandas, NumPy  
 
 🔗  
-[Project Folder](./data-cleaning-preparation/) •
-[Report](./data-cleaning-preparation/Data%20Cleaning.docx) •
-[Code](./data-cleaning-preparation/D1.py)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Technical Skills
-
-**Languages & Tools**  
-Python • SQL • Tableau • Excel
-
-**Libraries**  
-pandas • NumPy • matplotlib • seaborn • scikit-learn • statsmodels
-
-**Core Strengths**  
-Data Cleaning • Predictive Modeling • Regression Analysis • Dashboard Design • Analytics Storytelling
-
----
-
-## 📬 Let’s Connect
-
-📧 **Email:** [sengbejen@gmail.com](mailto:sengbejen@gmail.com)  
-💼 **LinkedIn:** https://www.linkedin.com/in/jen-sengbe-6630a73a4  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:CDB4FF,50:FFB3D9,100:FF5FA2" />
-</p>
+[Project Folder](./data-cleaning-preparation/) •  
+[Report](./data-cleaning-preparation/Data%20)
