@@ -19,8 +19,9 @@
 
 ## ✨ About Me
 
-I’m a **Data Analyst** passionate about transforming raw data into meaningful insights that support **strategy, performance improvement, and clarity**. I enjoy working at the intersection of data and storytelling, where thoughtful analysis meets intuitive design. My work blends **technical rigor** with **clean storytelling**, creating models and visualizations that help decision-makers understand not just the “what,” but the “why.”
+I’m a **Data Analyst** passionate about transforming raw data into meaningful insights that support **strategy, performance improvement, and clarity**. I work across the full analytics lifecycle—from data cleaning and exploratory analysis to predictive modeling, visualization, and interpretation.
 
+My work blends **technical rigor** with **clean storytelling**, focusing on models and dashboards that translate complex data into insights decision-makers can confidently act on.
 
 ---
 
@@ -40,7 +41,7 @@ I’m a **Data Analyst** passionate about transforming raw data into meaningful 
 <td width="50%">
 
 ### 📡 Telecommunications Customer Churn Analysis  
-Predictive modeling project identifying key churn drivers and retention opportunities.
+This project analyzes customer churn in a telecommunications dataset to identify behavioral and service-related factors driving customer attrition. Using logistic regression, I evaluated feature importance and modeled churn likelihood to support data-driven retention strategies.
 
 **Tools:** Python, pandas, scikit-learn, Tableau  
 
@@ -53,7 +54,7 @@ Predictive modeling project identifying key churn drivers and retention opportun
 <td width="50%">
 
 ### 📈 Ridge Regression Pricing Model  
-Forecasting monthly customer charges using regularized regression.
+This project focuses on forecasting customer monthly charges using ridge regression to address multicollinearity and improve model stability. The analysis highlights how regularization techniques enhance interpretability and predictive performance in pricing analytics.
 
 **Tools:** Python, statsmodels, matplotlib  
 
@@ -69,7 +70,7 @@ Forecasting monthly customer charges using regularized regression.
 <td width="50%">
 
 ### 🌐 Broadband Accessibility & Digital Equity Dashboard  
-Interactive Tableau dashboard visualizing broadband gaps and digital equity trends.
+This project combines FCC broadband data with telecommunications customer data to visualize disparities in broadband access across regions. An interactive Tableau dashboard was developed to highlight digital equity gaps and support geographic and policy-oriented analysis.
 
 **Tools:** SQL, Python, Tableau  
 
@@ -82,10 +83,45 @@ Interactive Tableau dashboard visualizing broadband gaps and digital equity tren
 <td width="50%">
 
 ### 🧹 Data Cleaning & Preparation with Python  
-Preprocessing workflow showcasing data quality best practices.
+This project demonstrates end-to-end data preprocessing techniques used to prepare raw datasets for modeling and reporting. Tasks include handling missing values, correcting inconsistencies, managing outliers, and applying PCA for dimensionality reduction.
 
 **Tools:** Python, pandas, NumPy  
 
 🔗  
 [Project Folder](./data-cleaning-preparation/) •  
-[Report](./data-cleaning-preparation/Data%20)
+[Report](./data-cleaning-preparation/Data%20Cleaning.docx) •  
+[Code](./data-cleaning-preparation/D1.py)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Technical Skills
+
+**Languages & Tools**  
+Python • SQL • Tableau • Excel  
+
+**Libraries**  
+pandas • NumPy • matplotlib • seaborn • scikit-learn • statsmodels  
+
+**Core Strengths**  
+Data Cleaning • Predictive Modeling • Regression Analysis • Dashboard Design • Analytics Storytelling
+
+---
+
+## 📬 Let’s Connect
+
+📧 **Email:** [sengbejen@gmail.com](mailto:sengbejen@gmail.com)  
+💼 **LinkedIn:** https://www.linkedin.com/in/jen-sengbe-6630a73a4  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&section=footer&color=0:CDB4FF,50:FFB3D9,100:FF5FA2" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:CDB4FF,50:FFB3D9,100:FF5FA2" />
+</p>
